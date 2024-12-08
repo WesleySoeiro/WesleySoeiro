@@ -18,7 +18,7 @@
 
 ###
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: left;">
+<div align="left" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; justify-items: center;">
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
     <p>HTML5</p>
@@ -35,6 +35,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
     <p>Python</p>
   </div>
+
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
     <p>Pandas</p>
