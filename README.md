@@ -8,7 +8,7 @@ My name is Wesley, and I'm passionate about technology and currently I'm a softw
 
 ## About me
 
-For 12 years, I have been working in the financial sector, where I currently work. I hold a degree in the field and have completed a postgraduate program in finance with a focus on capital markets. However, after rediscovering a passion for programming, I have rekindled an interest that I had set aside. I have now resumed my studies in the field of data science, artificial intelligence, and machine learning. My goal is to expand my skill set to include web development and application creation. I plan to learn languages such as Python, R, Java, JavaScript, Node.js, and web development languages. I have also developed knowledge in creating RESTful APIs. Currently, I have completed my postgraduate program in artificial intelligence and machine learning.
+For 12 years, I have been working in the financial sector, where I currently work. I hold a degree in the field and have completed a postgraduate program in finance with a focus on capital markets. However, after rediscovering a passion for programming, I have rekindled an interest that I had set aside. I have now resumed my studies in the field of data science, artificial intelligence, and machine learning. My goal is to expand my skill set to include web development and application creation. I plan to learn languages such as Python, R, Java, JavaScript, Node.js, and web development languages. I have also developed knowledge in creating RESTful APIs. I completed my postgraduate program in artificial intelligence and machine learning at PUC Minas.
 
 ### 
 
